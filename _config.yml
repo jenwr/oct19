@@ -1,0 +1,16 @@
+# Welcome to Jekyll!
+#
+# Seriously, add some context, please. 
+
+# Site settings
+title: hi
+email: your-email@domain.com - tbd
+description: > # this means to ignore newlines until "baseurl:"
+> #  A collection of seemingly disconnected ideas brought together to create something new and satisfying.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+# twitter_username:
+# github_username:  
+Thank you jekyll. 
+# Build settings
+markdown: kramdown
